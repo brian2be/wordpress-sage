@@ -1,6 +1,13 @@
-# Tutorial
+## Tutorial
+
 https://redeggmarketing.com/advantages-of-the-sage-starter-theme-for-a-modern-web-development-workflow-with-wordpress/
+
+
+## other themes to use
+Astra, neve, kadence, oceanwp and generatepress
+
 ---
+
 <p align="center">
   <a href="https://roots.io/sage/">
     <img alt="Sage" src="https://cdn.roots.io/app/uploads/logo-sage.svg" height="100">
